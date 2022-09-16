@@ -4,10 +4,8 @@ import imageio
 from tqdm import tqdm
 import cv2
 import os
-import cv2
 import numpy as np
 import glob
-import imageio
 import shutil
 from PIL import Image
 
